@@ -10,7 +10,7 @@
 <h2>CodingFetch</h2>
 
 - I’m currently working on CodingFetch Website
-- Free Souece Code.
+- Free Source Code.
 - How to reach me: [Discord Server](https://discord.gg/ADcBkBauXm)
 </br>
 </br>
