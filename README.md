@@ -4,8 +4,6 @@
  <img src="https://github.com/Coding-Fetch/Coding-Fetch/assets/115228998/3c58a20d-9166-41e5-ac04-8fe0239212a0" width="300px" height="300px">
 </p>
 </br>
-</br>
-</br>
 
 <h2>CodingFetch</h2>
 
