@@ -11,7 +11,7 @@
 
 - I’m currently working on CodingFetch Website
 - Free Souece Code.
-- How to reach me: [Discord Server]([https://discord.gg/hgWNMmtgnq](https://discord.gg/ADcBkBauXm))
+- How to reach me: [Discord Server](https://discord.gg/hgWNMmtgnq](https://discord.gg/ADcBkBauXm)
 </br>
 </br>
 
