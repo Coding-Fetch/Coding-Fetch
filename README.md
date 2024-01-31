@@ -1,7 +1,7 @@
 </br>
 </br>
 <p align="center">
-<!--  <img src="https://user-images.githubusercontent.com/115094203/194314270-a1d0e7e4-0268-4077-a1c1-ed041e077e3e.png"> -->
+ <img src="https://user-images.githubusercontent.com/115094203/194314270-a1d0e7e4-0268-4077-a1c1-ed041e077e3e.png">
 </p>
 </br>
 </br>
@@ -17,7 +17,7 @@
 
 <h2>View of  my Website</h2>
 </br>
-<p align="center">
+<!-- <p align="center">
  <img src="https://user-images.githubusercontent.com/115094203/194319231-aacf6be6-eae7-43a9-80ce-810294b6a8ed.png" width="1000">
-</p>
+</p> -->
 
